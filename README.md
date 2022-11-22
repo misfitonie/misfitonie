@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Théo, i'm 23 years old and this is my old student github profil. You can find many projects in different languages.
+
+
 <!--
 **misfitonie/misfitonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
