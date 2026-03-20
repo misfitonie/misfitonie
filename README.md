@@ -6,8 +6,8 @@ and I spend the rest of my time rolling dice and shuffling cards.
 
 ## 🛠️ Stack
 
-**Frontend** — React, Next.js, TypeScript, TailwindCSS, SCSS  
-**Backend** — .NET Core, Symfony, REST APIs  
+**Frontend** — React, Next.js, TypeScript, Angular, VueJS, TailwindCSS, SCSS  
+**Backend** — .NET Core, Symfony, Java, REST APIs  
 **Database** — PostgreSQL, MongoDB  
 **Cloud & DevOps** — Azure, Docker, Terraform, Vercel  
 **Tools** — Git, Figma, Jira, Postman  
